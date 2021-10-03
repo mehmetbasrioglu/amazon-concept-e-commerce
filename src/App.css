@@ -1,38 +1,142 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+*{
+  font-family: 'Source Sans Pro', sans-serif!important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.product{
+  background: white;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.3);
+  padding: 20px;
+  width: 300px;
+  margin: 20px;
+  height: 400px auto;
+
+  
+
+}
+.product img{
+  width: 100%;
+  height: 100%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.product h3{
+  font-size: 15px;
+  margin-top:20px;
+  margin-bottom:20px;
+  
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.container{
+  padding:0!important;
 }
 
-.App-link {
-  color: #61dafb;
+body{
+  background: #efefef!important;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.App{
+  background: #fff!important;
+}
+
+.btn-primary{
+  border: none!important;
+  background: #ffd814!important;
+  color: #000!important;
+}
+
+.bg-grey{
+  background: #f3f3f3!important;
+}
+
+
+.amazonlogo{
+  padding: 10px;
+}
+
+.amazonlogo img{
+  width: 120px;
+  height: 100%;
+}
+
+.customscroll{
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  background: white;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.3);
+  padding: 20px;
+  margin-top:40px;
+  margin-bottom:40px;
+  cursor: pointer;
+}
+/* Chrome, Edge, and Safari */
+.customscroll::-webkit-scrollbar {
+  height: 10px;
+  opacity: 0!important;
+}
+
+
+.customscrollShow::-webkit-scrollbar-thumb {
+  background-color: #ffd814!important;
+}
+
+
+.customscroll::-webkit-scrollbar-track {
+  background: #ffffff;
+}
+
+.customscroll::-webkit-scrollbar-thumb {
+  background:transparent;
+  border-radius: 180px;
+  border: 3px solid #ffffff;
+}
+
+
+
+.productlong{
+  background: white;
+  padding: 20px;
+  width: 300px;
+  margin: 20px;
+  height: 400px auto;
+
+  
+
+}
+.productlong img{
+  width: 100%;
+  height: 100%;
+}
+
+.productlong h3{
+  font-size: 15px;
+  margin-top:20px;
+  margin-bottom:20px;
+  
+}
+
+
+.btn-amazon{
+  background: #f0c14b!important;
+  border-color: #a88734 #9c7e31 #846a29!important;
+  color: #111!important;
+  max-height: 40px;
+  width: 200px;
+  margin:10px;
+}
+
+.btn-amazon2 {
+  background: #e7e9ec!important;
+    border-color: #ADB1B8 #A2A6AC #8D9096!important;
+    border-style: solid!important;
+    border-width: 1px!important;
+    cursor: pointer!important;
+    display: inline-block!important;
+    text-align: center!important;
+    text-decoration: none!important;
+    vertical-align: middle!important;
+    max-height: 40px!important;
+    width: 200px!important;
+    margin:10px!important;
+
 }

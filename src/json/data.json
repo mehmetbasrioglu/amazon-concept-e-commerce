@@ -1,0 +1,291 @@
+{
+    "sliders":[
+        {
+            "id":1,
+            "title":"Slider 1",
+            "image":"assets/prime.jpg"
+        },
+        {
+            "id":2,
+            "title":"Slider 2",
+            "image":"assets/super.jpg"
+        },
+        {
+            "id":3,
+            "title":"Slider 3",
+            "image":"assets/axess.jpg"
+        },
+        {
+            "id":4,
+            "title":"Slider 4",
+            "image":"assets/okuladonus.jpg"
+        }
+    ],
+    "gamingSliders":[
+        {
+            "id":1,
+            "title":"Slider 1",
+            "image":"assets/dizustupc.jpg",
+            "Category":{
+                "CategoryName":"Dizüstü Bilgisayar"
+            }
+        },
+        {
+            "id":2,
+            "title":"Slider 2",
+            "image":"assets/aksesuar.png",
+            "Category":{
+                "CategoryName":"Aksesuar"
+            }
+        },
+        {
+            "id":3,
+            "title":"Slider 3",
+            "image":"assets/monitor.jpg",
+            "Category":{
+                "CategoryName":"Monitör"
+            }
+        },
+        {
+            "id":4,
+            "title":"Slider 4",
+            "image":"assets/telefonvetablet.jpg",
+            "Category":{
+                "CategoryName":"Telefon & Tablet"
+            }
+        },
+        {
+            "id":5,
+            "title":"Slider 5",
+            "image":"assets/konsol.jpg",
+            "Category":{
+                "CategoryName":"Video oyunu & konsol"
+            }
+        },
+        {
+            "id":6,
+            "title":"Slider 6",
+            "image":"assets/oyunlar.jpg"
+        }
+    ],
+    "Products":[
+        {
+            "ProductID":1,
+            "ProductName":"K/DA Mouse Pad",
+            "UnitPrice":0,
+            "Discontinued":false,
+            "image":[
+                {
+                    "imageUrl":"/assets/urunbir.jpg"
+                }
+            ],
+            "Category":{
+                "CategoryID":1,
+                "CategoryName":"Aksesuarlar"
+            }
+        },
+        {
+            "ProductID":2,
+            "ProductName":"Başlıklı Logitech G733 LIGHTSPEED kablosuz oyun kulaklığı mı? jel, LIGHTSYNC RGB, Mavi VO! CE Mikrofon Teknolojisi, PRO G Hoparlörler, Ultra Hafif, 15 Saat Pil Ömrü, 20 m Menzil, Beyaz",
+            "UnitPrice":0,
+            "Discontinued":false,
+            "image":[
+                {
+                    "imageUrl":"/assets/uruniki.jpg"
+                },
+                {
+                    "imageUrl":"/assets/uruniki_1.jpg"
+                },
+                {
+                    "imageUrl":"/assets/uruniki_2.jpg"
+                }
+            ],
+            "Category":{
+                "CategoryID":1,
+                "CategoryName":"Aksesuarlar"
+            }
+        },
+        {
+            "ProductID":3,
+            "ProductName":"Akali Coloring Book: League of Legends Video Game Character Coloring Book Stress Relief 8.5 X 11 20 Unique Fantasy Coloring Pages in Both Color and Black Line Art Relaxing Gift for Adults Kids ",
+            "UnitPrice":0,
+            "Discontinued":false,
+            "image":[
+                {
+                    "imageUrl":"/assets/urunuc.jpg"
+                }
+            ],
+            "Category":{
+                "CategoryID":1,
+                "CategoryName":"Kitap"
+            }
+        },
+        {
+            "ProductID":4,
+            "ProductName":"Iphone 13 Pro Max",
+            "UnitPrice":0,
+            "Discontinued":false,
+            "image":[
+                {
+                    "imageUrl":"/assets/iphone 13 pro max.jpg"
+                },
+                {
+                    "imageUrl":"/assets/iphone 13 pro max2.jpg"
+                },
+                {
+                    "imageUrl":"/assets/iphone 13 pro max3.jpg"
+                }
+            ],
+            "Category":{
+                "CategoryID":1,
+                "CategoryName":"Telefon & Tablet"
+            }
+        }, {
+            "ProductID":5,
+            "ProductName":"Logitech G 502 HERO K/DA Yüksek Performanslı Oyun Faresi, Kablolu, HERO 25K Sensör, 16,8 M Renk LIGHTSYNC RGB, 11 Programlanabilir Tuş, Resmi League of Legends Oyun Aksesuarı - Beyaz",
+            "UnitPrice":0,
+            "Discontinued":false,
+            "image":[
+                {
+                    "imageUrl":"/assets/kda mouse.jpg"
+                },
+                {
+                    "imageUrl":"/assets/kda mouse2.jpg"
+                }
+            ],
+            "Category":{
+                "CategoryID":1,
+                "CategoryName":"Aksesuarlar"
+            }
+        }, {
+            "ProductID":6,
+            "ProductName":"Logitech G 840 K/DA XL oyun fare altlığı, kumaş, 3 mm ince ve sağlam kauçuk taban, resmi Legends oyun aksesuarı - çok renkli",
+            "UnitPrice":0,
+            "Discontinued":false,
+            "image":[
+                {
+                    "imageUrl":"/assets/kda mouse pad.jpg"
+                },
+                {
+                    "imageUrl":"/assets/kda mouse pad2.jpg"
+                }
+            ],
+            "Category":{
+                "CategoryID":1,
+                "CategoryName":"Aksesuarlar"
+            }
+        },{
+            "ProductID":7,
+            "ProductName":"Logitech G PRO K/DA mekanik oyun klavyesi, League of Legends oyun aksesuarı, Fransız AZERTY düzeni - siyah/beyaz",
+            "UnitPrice":0,
+            "Discontinued":false,
+            "image":[
+                {
+                    "imageUrl":"/assets/kda klavye.jpg"
+                }
+            ],
+            "Category":{
+                "CategoryID":1,
+                "CategoryName":"Aksesuarlar"
+            }
+        },{
+            "ProductID":8,
+            "ProductName":"Asus Tuf Gaming FX706LI-HX175A8 i5-10300H 16GB 1TB+512SSD GTX1650TI 17.3 FullHD FreeDOS Taşınabilir Bilgisayar",
+            "UnitPrice":0,
+            "Discontinued":false,
+            "image":[
+                {
+                    "imageUrl":"/assets/asustuf.jpg"
+                }, {
+                    "imageUrl":"/assets/asustuf1.jpg"
+                }, {
+                    "imageUrl":"/assets/asustuf2.jpg"
+                }
+            ],
+            "Category":{
+                "CategoryID":1,
+                "CategoryName":"Dizüstü Bilgisayar"
+            }
+        },{
+            "ProductID":9,
+            "ProductName":"MSI 27 OPTIX G27C7 Gaming Monitör, Curved, VA, FHD, 165HZ, 1MS, Freesync Premium",
+            "UnitPrice":0,
+            "Discontinued":false,
+            "image":[
+                {
+                    "imageUrl":"/assets/msimonitoroptix.jpg"
+                }, {
+                    "imageUrl":"/assets/msimonitoroptix1.jpg"
+                }
+            ],
+            "Category":{
+                "CategoryID":1,
+                "CategoryName":"Monitör"
+            }
+        },{
+            "ProductID":10,
+            "ProductName":"Ratchet & Clank: Rift Apart (PS5)",
+            "UnitPrice":0,
+            "Discontinued":false,
+            "image":[
+                {
+                    "imageUrl":"/assets/ratchet.jpg"
+                }
+            ],
+            "Category":{
+                "CategoryID":1,
+                "CategoryName":"Video oyunu & konsol"
+            }
+        },{
+            "ProductID":11,
+            "ProductName":"Marvel’s Spider-Man Miles Morales PS5 Game",
+            "UnitPrice":0,
+            "Discontinued":false,
+            "image":[
+                {
+                    "imageUrl":"/assets/spidermanps5.jpg"
+                }
+            ],
+            "Category":{
+                "CategoryID":1,
+                "CategoryName":"Video oyunu & konsol"
+            }
+        },{
+            "ProductID":12,
+            "ProductName":"PlayStation 4 Mega Paket 2019, 500GB (GTA V + Days Gone + God of War)",
+            "UnitPrice":0,
+            "Discontinued":false,
+            "image":[
+                {
+                    "imageUrl":"/assets/ps5.jpg"
+                },{
+                    "imageUrl":"/assets/ps52.jpg"
+                }
+            ],
+            "Category":{
+                "CategoryID":1,
+                "CategoryName":"Video oyunu & konsol"
+            }
+        },{
+            "ProductID":13,
+            "ProductName":"Samsung Galaxy Note 10 Lite 128 GB N770F Aura Red",
+            "UnitPrice":0,
+            "Discontinued":false,
+            "image":[
+                {
+                    "imageUrl":"/assets/samsunggalaxynote10lite.jpg"
+                },{
+                    "imageUrl":"/assets/samsunggalaxynote10lite2.jpg"
+                },{
+                    "imageUrl":"/assets/samsunggalaxynote10lite3.jpg"
+                },{
+                    "imageUrl":"/assets/samsunggalaxynote10lite4.jpg"
+                }
+            ],
+            "Category":{
+                "CategoryID":1,
+                "CategoryName":"Telefon & Tablet"
+            }
+        }
+    ]
+}
